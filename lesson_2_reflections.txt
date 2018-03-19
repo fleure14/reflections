@@ -1,0 +1,5 @@
+Q: what happens when you initialize a repository? Why do you need to do it?
+A: A new repository is created. The initialization is done to create a new repository
+
+Q:How can you use the staging area to make sure you have one commit per logical change?
+A: Stageing area is used for testin
